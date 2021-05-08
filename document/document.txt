@@ -1,0 +1,14 @@
+udemyEcommerce Website using MERN
+
+1. Installed nodeJS, MongoDB, Robo3T, Gitbash
+2. Installed dotenv, express, mongoose package.
+3. Connected to server using expressJS.
+4. Create first get product route to get all products.
+5. connected to mongoDB using mongoose. 
+------------------------------------------------------
+1. Created Schema for product in model folder. with product name, price, description
+2. Create api to insert product.
+3. Created api to fetch single product.
+4. Created api to fetch all products.
+5. Created api to update product.
+6. Created api to delete single product.
