@@ -6,7 +6,7 @@ udemyEcommerce Website using MERN
 4. Create first get product route to get all products.
 5. connected to mongoDB using mongoose. 
 ---------------------------------------------------------
-1. Created Schema for product in model folder. with product name, price, description, ratings.
+1. Created Schema for product in model folder. with product name, price, description, ratings, images, category, seller, stocks, reviews.
 2. Create api to insert product.
 3. Created api to fetch single product.
 4. Created api to fetch all products.
