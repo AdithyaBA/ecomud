@@ -12,3 +12,4 @@ udemyEcommerce Website using MERN
 4. Created api to fetch all products.
 5. Created api to update product.
 6. Created api to delete single product.
+7. Create seeder.js file to insert all products.
